@@ -66,7 +66,7 @@ export default function Footer() {
           <div className="flex flex-col items-center justify-center text-center space-y-3 md:space-y-4">
             {/* GitHub Icon */}
             <a
-              href="https://github.com/HimanM"
+              href="https://github.com/sjwayrhz"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-red-500 transition-colors"

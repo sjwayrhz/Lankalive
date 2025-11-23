@@ -81,12 +81,12 @@ export default function PrivacyPolicy() {
               <li>
                 <strong>GitHub:</strong>{' '}
                 <a
-                  href="https://github.com/HimanM"
+                  href="https://github.com/sjwayrhz"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-red-600 hover:text-red-700 hover:underline"
                 >
-                  @HimanM
+                  @sjwayrhz
                 </a>
               </li>
               <li><strong>Email:</strong> sjwayrhz@gmail.com</li>

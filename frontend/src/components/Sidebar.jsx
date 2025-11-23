@@ -92,15 +92,15 @@ export default function Sidebar() {
         <div className="bg-gray-100 py-2 px-4">
           <p className="text-gray-600 text-xs font-semibold uppercase tracking-wide">Advertisement</p>
         </div>
-        <a 
-          href="https://www.himanmanduja.fun/" 
+        <a
+          href="https://www.taoist.ggff.net"
           className="block hover:opacity-90 transition-opacity"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img 
-            src="/ads/cat_ad.jpg" 
-            alt="Advertisement - Hire Me!" 
+          <img
+            src="/ads/cat_ad.jpg"
+            alt="Advertisement - Hire Me!"
             className="w-full h-auto"
           />
         </a>

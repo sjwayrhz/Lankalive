@@ -258,7 +258,7 @@ This project includes automated deployment via GitHub Actions. Every push to `ma
    apt install docker-compose -y
    
    # Clone repository
-   git clone https://github.com/HimanM/Lankalive-Clone.git
+   git clone https://github.com/sjwayrhz/Lankalive.git
    cd Lankalive-Clone
    
    # Open port 8080
@@ -278,7 +278,7 @@ This project includes automated deployment via GitHub Actions. Every push to `ma
 1. Clone repository on VPS:
 
 ```bash
-git clone https://github.com/HimanM/Lankalive-Clone.git
+git clone https://github.com/sjwayrhz/Lankalive.git
 cd Lankalive-Clone
 ```
 
