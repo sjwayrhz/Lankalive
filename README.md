@@ -455,7 +455,7 @@ docker-compose exec postgres pg_isready -U postgres
 
 ## Contact
 
-Portfolio project by: <hghimanmanduja@gmail.com>
+Portfolio project by: <sjwayrhz@gmail.com>
 
 ## Disclaimer
 

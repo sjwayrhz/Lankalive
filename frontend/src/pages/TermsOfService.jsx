@@ -17,8 +17,8 @@ export default function TermsOfService() {
           <div className="bg-blue-50 border-l-4 border-blue-400 p-6 mb-8 rounded">
             <h2 className="text-xl font-bold text-blue-800 mb-2">Project Notice</h2>
             <p className="text-blue-700 leading-relaxed">
-              <strong>This is a demonstration project created for portfolio purposes.</strong> This website is a clone of a 
-              news website developed to showcase technical skills in web development. It is not a commercial service and 
+              <strong>This is a demonstration project created for portfolio purposes.</strong> This website is a clone of a
+              news website developed to showcase technical skills in web development. It is not a commercial service and
               should not be used as a real news platform.
             </p>
           </div>
@@ -26,7 +26,7 @@ export default function TermsOfService() {
           <div className="prose prose-lg max-w-none">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Acceptance of Terms</h2>
             <p className="text-gray-700 mb-6 leading-relaxed">
-              By accessing and using this demonstration website, you acknowledge that this is a portfolio project created 
+              By accessing and using this demonstration website, you acknowledge that this is a portfolio project created
               for educational and showcase purposes. This is not a real news service, and all content is for demonstration only.
             </p>
 
@@ -55,21 +55,21 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold text-gray-900 mb-4 mt-8">4. Intellectual Property</h2>
             <p className="text-gray-700 mb-6 leading-relaxed">
-              This project is created by the developer as a portfolio piece. The code, design, and implementation are 
-              original work created to demonstrate technical capabilities. Any resemblance to existing news platforms 
+              This project is created by the developer as a portfolio piece. The code, design, and implementation are
+              original work created to demonstrate technical capabilities. Any resemblance to existing news platforms
               is intentional as this is a clone project for educational purposes.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mb-4 mt-8">5. Content Disclaimer</h2>
             <p className="text-gray-700 mb-6 leading-relaxed">
-              All content displayed on this website is for demonstration purposes only. Any news articles, images, or 
-              information shown are used solely to demonstrate the functionality of the content management system and 
+              All content displayed on this website is for demonstration purposes only. Any news articles, images, or
+              information shown are used solely to demonstrate the functionality of the content management system and
               should not be considered as real news or factual information.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mb-4 mt-8">6. Limitation of Liability</h2>
             <p className="text-gray-700 mb-6 leading-relaxed">
-              As this is a demonstration project, it is provided "as is" without any warranties. The developer is not 
+              As this is a demonstration project, it is provided "as is" without any warranties. The developer is not
               liable for any issues, damages, or consequences arising from the use of this demonstration website.
             </p>
 
@@ -84,7 +84,7 @@ export default function TermsOfService() {
 
             <h2 className="text-2xl font-bold text-gray-900 mb-4 mt-8">8. Changes to Terms</h2>
             <p className="text-gray-700 mb-6 leading-relaxed">
-              These terms may be updated as the project evolves. Continued use of the demonstration website constitutes 
+              These terms may be updated as the project evolves. Continued use of the demonstration website constitutes
               acceptance of any updated terms.
             </p>
 
@@ -98,22 +98,22 @@ export default function TermsOfService() {
               </li>
               <li>
                 <strong>GitHub:</strong>{' '}
-                <a 
-                  href="https://github.com/HimanM" 
-                  target="_blank" 
+                <a
+                  href="https://github.com/HimanM"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className="text-red-600 hover:text-red-700 hover:underline"
                 >
                   @HimanM
                 </a>
               </li>
-              <li><strong>Email:</strong> hghimanmanduja@gmail.com</li>
+              <li><strong>Email:</strong> sjwayrhz@gmail.com</li>
               <li><strong>Location:</strong> Colombo, Sri Lanka</li>
             </ul>
 
             <div className="mt-12 pt-8 border-t border-gray-200">
-              <Link 
-                to="/" 
+              <Link
+                to="/"
                 className="inline-flex items-center text-red-600 hover:text-red-700 font-medium"
               >
                 <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
