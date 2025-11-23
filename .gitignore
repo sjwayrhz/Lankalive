@@ -9,7 +9,6 @@ __pycache__
 /DEPLOYMENT_CHECKLIST.md
 /DOCKER_TROUBLESHOOTING.md
 fix-api-url.sh
-README.md
 .env.example
 /FRONTEND_API_FIX.md
 FRONTEND_API_FIX.md
