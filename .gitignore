@@ -1,5 +1,6 @@
 /__temp_pipreqsnb_folder
 /.env
+/.env_local
 __pycache__
 *.pyc
 /backend/.pytest_cache
@@ -13,7 +14,6 @@ fix-api-url.sh
 /FRONTEND_API_FIX.md
 FRONTEND_API_FIX.md
 SECRETS.md
-
 /EMERGENCY_FIX.md
 /debug-deployment.sh
 /QUICK_FIX_GUIDE.md
