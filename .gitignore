@@ -1,6 +1,6 @@
 /__temp_pipreqsnb_folder
 /.env
-/.env_local
+/.env-*
 __pycache__
 *.pyc
 /backend/.pytest_cache
