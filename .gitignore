@@ -25,3 +25,4 @@ frontend/src/components/AlertSystem.README.md
 frontend/src/pages/AlertDemo.jsx
 ALERT_SYSTEM_IMPLEMENTATION.md
 RESPONSIVE_IMPROVEMENTS.md
+docker-compose-hidden.yml
